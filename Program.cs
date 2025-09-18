@@ -18,7 +18,7 @@
             Console.WriteLine($"Hästkrafter {myCar.HorsePower}");
             Console.WriteLine($"Växlar {myCar.Gears}");
             Console.WriteLine($"Motorn är startad {myCar.EngineOn}");
-            Console.WriteLine();
+            Console.WriteLine(); // Cars separation
 
         }
     }
